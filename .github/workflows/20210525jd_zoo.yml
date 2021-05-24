@@ -5,6 +5,8 @@ name: 20210525jd_zoo动物联萌
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ master ]
   schedule:
     - cron: '0 22,4,10 * * *'
   repository_dispatch:
