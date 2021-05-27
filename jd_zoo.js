@@ -29,8 +29,8 @@ shareCodeList = [
 ];
 //个人码
 inviteIdList = [
-  'ZXTKT019-aklCFpFgSm_WEil7LIFjRWn6-7zx55awQ',
-  'ZXTKT019-ak0PWRKgCO3W02JyLYFjRWn6-7zx55awQ',
+  'ZXTKT0225KkcRxsRpFeGIUzxkf4DcwFjRWn6-7zx55awQ',
+  'ZXTKT0225KkcRh8f8VKGKBP8lPACdQFjRWn6-7zx55awQ',
   'ZXTKT019-aksBmRfkjSreH-R1YQFjRWn6-7zx55awQ',
   'ZXTKT019-aklCFpFgSm_WEil7LIFjRWn6-7zx55awQ',
   'ZXTKT0195qwpGVtBpA6OZRj0kvAFjRWn6-7zx55awQ',
