@@ -21,8 +21,8 @@ let cookiesArr = [], cookie = '',secretp = '',
 //商圈码
 shareCodeList = [
   'sSKNX-MpqKONvfHiwM7fA9mpCx9lkkUan20wnBHJt3qa',
-  'sSKNX-MpqKOUsPPF48iscyr8LHvtnk4qMWJACbDxfOAOVNlVeSrPACUD9Q',
-  'sSKNX-MpqKOUsOv-492-ZMCCB3o8lW4Uu5-Go6fskI31i6RZ2fAaquNIxg',
+  'sSKNX-MpqKOJsNu_nJOIB_cpBJwEmOkdQy23U1IL7qnB0Vb-yWUrzXZwdXJB0q0',
+  'sSKNX-MpqKOJsNu-mJ3dAiQ_eb8qLAlsVIT7-PlA1ZJ8FL1wgePBpZ47-EBs_7k',
   'sSKNX-MpqKOUsOLw3ceteZABBWhg6J2v5Md7jasXskpfu8Ceomd4e016pA',
   'sSKNX-MpqKOLte7h3MOIXiWT8OdWoR_nJEGQIbnn1wNJA9stvoPO0PRHpw',
   'sSKNX-MpqKOLte7h3MOIXiWT8OBTpR_nJEGQIbnn1wM_xvI0p-8LTpWWow'
