@@ -22,8 +22,8 @@ let cookiesArr = [], cookie = '',secretp = '',
 shareCodeList = [
   'sSKNX-MpqKONvfHiwM7fA9mpCx9lkkUan20wnBHJt3qa',
   'sSKNX-MpqKOJsNu_nJOIB_cpBJwEmOkdQy23U1IL7qnB0Vb-yWUrzXZwdXJB0q0',
-  'sSKNX-MpqKOJsNu-mJ3dAiQ_eb8qLAlsVIT7-PlA1ZJ8FL1wgePBpZ47-EBs_7k',
-  'sSKNX-MpqKOUsOLw3ceteZABBWhg6J2v5Md7jasXskpfu8Ceomd4e016pA',
+  'sSKNX-MpqKOJsNu_nJOIB_cpBJwEmOkdQy23U1IL7qnB0Vb-yWUrzXZwdXJB0qM',
+  'sSKNX-MpqKMKUxVsETYMtIX6_jOOOh9hh-pbNSiBcK8B',
   'sSKNX-MpqKOLte7h3MOIXiWT8OdWoR_nJEGQIbnn1wNJA9stvoPO0PRHpw',
   'sSKNX-MpqKOLte7h3MOIXiWT8OBTpR_nJEGQIbnn1wM_xvI0p-8LTpWWow'
 ];
@@ -31,8 +31,8 @@ shareCodeList = [
 inviteIdList = [
   'ZXTKT0225KkcRxsRpFeGIUzxkf4DcwFjRWn6-7zx55awQ',
   'ZXTKT0225KkcRh8f8VKGKBP8lPACdQFjRWn6-7zx55awQ',
-  'ZXTKT019-aksBmRfkjSreH-R1YQFjRWn6-7zx55awQ',
-  'ZXTKT019-aklCFpFgSm_WEil7LIFjRWn6-7zx55awQ',
+  'ZXTKT012Z0rSlJa0IOR-FjRWn6-7zx55awQQ',
+  'ZXTKT0225KkcRxsRpFeGIUzxkf4DcwFjRWn6-7zx55awQ',
   'ZXTKT0195qwpGVtBpA6OZRj0kvAFjRWn6-7zx55awQ',
   'ZXTKT0195qwpGVtBpA6OZRjzl_QFjRWn6-7zx55awQ'  
   
