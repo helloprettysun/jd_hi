@@ -18,7 +18,7 @@
 2.导入新仓库
 [点击导入仓库](https://github.com/new/import)
 
-Your old repository’s clone URL 填入 https://github.com/hajiuhajiu/jdsign1112 ，Your new repository details处填写导入后自己的repository名称，其它按默认，
+Your old repository’s clone URL 填入 https://github.com/shop271/jd_618 ，Your new repository details处填写导入后自己的repository名称，其它按默认，
 点击Begin import，等待导入完成。
 
 3.填写Cookie及互助码:导入完成后打开新导入的repository，在屏幕右上角找到
@@ -46,7 +46,7 @@ Settings的按钮并点击，然后左侧找到secrets点击，点右侧的new r
 lxk0301-环境变量合集（Secrets）配置[点击查看](https://gitee.com/lxk0301/jd_scripts/blob/master/githubAction.md)
 
 >可以运行获取getcookie脚本的脚本，必须先配置微信推送后按github action：build里面运行提示用手机京东扫码登陆，脚本会自动获得cookie，然后推送到微信的消息，放在secrets即可。
->  如何配置,可参考 > [获取京东Cookies教程](https://github.com/hajiuhajiu/jdsign1112/blob/master/backUp/GetJdCookie2.md)
+>  如何配置,可参考 > [获取京东Cookies教程](https://github.com/shop271/jd_618blob/master/backUp/GetJdCookie2.md)
 >
 > 
 >   清单(仅供参考）：  
