@@ -1,12 +1,12 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: 0406jxcfdtx
+name: 财富岛提现
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '57 15,4 * * *'
+  #schedule:
+    #- cron: '57 15,4 * * *'
   repository_dispatch:
     types: cfd
 jobs:
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: shop271/jd_618
+          repository: inoyna11/jd28
           ref: master
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
@@ -37,7 +37,7 @@ jobs:
       - name: 'jxcfdtx'
         run: |
           sleep 1
-          curl https://raw.githubusercontent.com/shop271/jd_618master/jx_cfdtx.js -o jx_cfdtx.js
+          curl https://raw.githubusercontent.com/inoyna11/jd28/master/jx_cfdtx.js -o jx_cfdtx.js
           node jx_cfdtx.js
         env:
           JD_COOKIE: ${{ secrets.JD_COOKIE }}
