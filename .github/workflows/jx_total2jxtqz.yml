@@ -44,6 +44,8 @@ jobs:
         run: |
           node jx_sign.js
           sleep 5
+          node jdczf.js
+          sleep 10
           node jdtqz.js
           
           
